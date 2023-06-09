@@ -1,0 +1,6 @@
+{
+    "init": "xxx/xxx",
+    "attributes": {
+        "test": "初始化测试信息",
+    }
+}
